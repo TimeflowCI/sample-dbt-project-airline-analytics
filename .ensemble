@@ -1,0 +1,13 @@
+title: Airline Analytics Project
+
+description: Project description goes here
+
+owner: benjamin.wootton.personal@gmail.com
+
+main_branch: main
+
+# In this section we map your projects branches to DBT targets asd
+
+branch_deployments:
+    main : airline_production
+    my_new_feature : airline_dev
