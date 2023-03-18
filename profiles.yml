@@ -1,4 +1,4 @@
-analytics:
+airline_analytics:
 
   target: airline_dev
   outputs:
