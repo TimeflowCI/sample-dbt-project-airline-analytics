@@ -2,17 +2,17 @@ airline_analytics:
 
   target: airline_dev
   outputs:
-    tbc_dev:
+    airline_dev:
       type: clickhouse
       schema: airline_dev
       password: ''
     
-    tbc_test:
+    airline_test:
       type: clickhouse
       schema: airline_test
       password: ''
 
-    tbc_production:
+    airline_production:
       type: clickhouse
       schema: airline_production
       password: ''
