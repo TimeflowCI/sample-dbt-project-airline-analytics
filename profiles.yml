@@ -5,16 +5,19 @@ airline_analytics:
     airline_dev:
       type: clickhouse
       schema: airline_dev
+      host: 35.189.109.115
       password: ''
     
     airline_test:
       type: clickhouse
       schema: airline_test
+      host: 35.189.109.115
       password: ''
 
     airline_production:
       type: clickhouse
       schema: airline_production
+      host: 35.189.109.115
       password: ''
 
     
