@@ -1,0 +1,11 @@
+title: Airline Analytics Project
+
+description: Project description goes here
+
+owner: hello@timeflow.systems
+
+main_branch: main
+
+branch_deployments:
+    main : airline_production
+    my_new_feature : airline_dev
